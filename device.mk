@@ -433,12 +433,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 PRODUCT_BUILD_SUPER_PARTITION := false
 
-# Power
-
-# Parts
-PRODUCT_PACKAGES += \
-    XiaomiParts
-
 # Perf
 PRODUCT_PACKAGES += \
     android.hardware.power-service.chime-libperfmgr \
