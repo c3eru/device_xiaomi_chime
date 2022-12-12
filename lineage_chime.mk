@@ -18,7 +18,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_NAME := lineage_chime
 PRODUCT_DEVICE := chime
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi 9T
+PRODUCT_MODEL := SM6115
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
