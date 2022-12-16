@@ -7,9 +7,8 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
     AmbientSensePrebuilt \
     arcore \
+    Browser2 \
     Camera2 \
-    Chrome \
-    Chrome-Stub \
     ConnMO \
     ConnMetrics \
     DCMO \
@@ -19,6 +18,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     GCS \
     GoogleCamera \
     Maps \
+    MatLog \
     Music \
     MyVerizonServices \
     OBDM_Permissions \
