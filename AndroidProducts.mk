@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/acme_chime.mk
+    $(LOCAL_DIR)/syberia_chime.mk
 
 COMMON_LUNCH_CHOICES := \
-    acme_chime-user \
-    acme_chime-userdebug \
-    acme_chime-eng
+    syberia_chime-user \
+    syberia_chime-userdebug \
+    syberia_chime-eng
