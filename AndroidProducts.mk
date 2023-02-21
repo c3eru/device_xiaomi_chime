@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/syberia_chime.mk
+    $(LOCAL_DIR)/banana_chime.mk
 
 COMMON_LUNCH_CHOICES := \
-    syberia_chime-user \
-    syberia_chime-userdebug \
-    syberia_chime-eng
+    banana_chime-user \
+    banana_chime-userdebug \
+    banana_chime-eng
