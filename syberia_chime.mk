@@ -13,7 +13,6 @@ $(call inherit-product, device/xiaomi/chime/device.mk)
 
 # Inherit some common SyberiaOS Flags.
 $(call inherit-product, vendor/syberia/common.mk)
-SYBERIA_BUILD_TYPE := Gf_UwU
 WITH_GMS := true
 TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 1080
