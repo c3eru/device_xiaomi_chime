@@ -8,8 +8,6 @@ LOCAL_OVERRIDES_PACKAGES := \
     AmbientSensePrebuilt \
     arcore \
     Camera2 \
-    Chrome \
-    Chrome-Stub \
     ConnMO \
     ConnMetrics \
     DCMO \
